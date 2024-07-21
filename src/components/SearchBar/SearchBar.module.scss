@@ -1,0 +1,28 @@
+.form {
+  display: flex;
+  flex-direction: row;
+  min-width: 340px;
+  justify-content: left;
+
+  &__input {
+    background: lightgray;
+    color: #212121;
+    vertical-align: middle;
+    font-size: 16px;
+    line-height: 2;
+    padding: 10px 20px;
+    border: 0;
+    outline: none;
+    width: 100%;
+  }
+
+  &__button {
+    background: black;
+    color: #ffffff;
+    vertical-align: middle;
+    padding: 0 20px;
+    border: 0;
+    outline: none;
+    cursor: pointer;
+  }
+}

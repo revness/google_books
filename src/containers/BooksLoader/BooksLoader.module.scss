@@ -1,0 +1,18 @@
+.BooksLoader {
+  display: flex;
+  flex-direction: column;
+  gap: 0.5em;
+  align-content: center;
+  justify-content: center;
+
+  background-color: #eeeeee;
+  text-align: center;
+
+  &__content {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.5em;
+    align-content: center;
+    justify-content: center;
+  }
+}
