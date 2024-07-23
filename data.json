@@ -1,0 +1,739 @@
+[
+  {
+    "kind": "books#volume",
+    "id": "Hoz-EAAAQBAJ",
+    "etag": "Dz/7dVG56Xc",
+    "selfLink": "https://www.googleapis.com/books/v1/volumes/Hoz-EAAAQBAJ",
+    "volumeInfo": {
+      "title": "Meghan and Harry",
+      "subtitle": "The Real Story: Persecutors or Victims",
+      "authors": ["Lady Colin Campbell"],
+      "publisher": "Simon and Schuster",
+      "publishedDate": "2024-04-16",
+      "description": "**A Wall Street Journal bestseller** An updated edition of this blockbuster narrative provides the first behind-the-scenes, authoritative account of the Duke and Duchess of Sussex’s marriage, by the New York Times bestselling author of Diana in Private. The fall from popular grace of Prince Harry, the previously adulated brother of the heir to the British throne, as a consequence of his marriage to the beautiful and dynamic Hollywood actress and \"Suits star\" Meghan Markle, makes for fascinating reading in this groundbreaking book from Lady Colin Campbell, who is the New York Times bestselling biographer of books on Princess Diana, the Queen Mother, and Queen Elizabeth’s marriage. With a unique breadth of insight, Lady Colin Campbell goes behind the scenes, speaking to friends, relations, courtiers, and colleagues on both sides of the Atlantic to reveal the most unexpected royal story since King Edward VIII's abdication. She highlights the dilemmas involved and the issues that lurk beneath the surface, revealing why the couple decided to step down as senior royals. She analyses the implications of the actions of a young and ambitious Duke and Duchess of Sussex, in love with each other and with the empowering lure of fame and fortune, and leads the reader through the maze of contradictions Meghan and Harry have created—while also evoking the Californian culture that has influenced the couple's conduct. Meghan and Harry: The Real Story exposes how the royal couple tried and failed to change the royal system—by adapting it to their own needs and ambitions—and, upon failing, how they decided to create a new system—and life—for themselves.",
+      "industryIdentifiers": [
+        {
+          "type": "ISBN_13",
+          "identifier": "9781639367948"
+        },
+        {
+          "type": "ISBN_10",
+          "identifier": "1639367942"
+        }
+      ],
+      "readingModes": {
+        "text": true,
+        "image": false
+      },
+      "pageCount": 581,
+      "printType": "BOOK",
+      "categories": ["Biography & Autobiography"],
+      "maturityRating": "NOT_MATURE",
+      "allowAnonLogging": true,
+      "contentVersion": "1.2.2.0.preview.2",
+      "panelizationSummary": {
+        "containsEpubBubbles": false,
+        "containsImageBubbles": false
+      },
+      "imageLinks": {
+        "smallThumbnail": "http://books.google.com/books/content?id=Hoz-EAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+        "thumbnail": "http://books.google.com/books/content?id=Hoz-EAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+      },
+      "language": "en",
+      "previewLink": "http://books.google.com.au/books?id=Hoz-EAAAQBAJ&printsec=frontcover&dq=harry&hl=&cd=1&source=gbs_api",
+      "infoLink": "http://books.google.com.au/books?id=Hoz-EAAAQBAJ&dq=harry&hl=&source=gbs_api",
+      "canonicalVolumeLink": "https://books.google.com/books/about/Meghan_and_Harry.html?hl=&id=Hoz-EAAAQBAJ"
+    },
+    "saleInfo": {
+      "country": "AU",
+      "saleability": "NOT_FOR_SALE",
+      "isEbook": false
+    },
+    "accessInfo": {
+      "country": "AU",
+      "viewability": "PARTIAL",
+      "embeddable": true,
+      "publicDomain": false,
+      "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+      "epub": {
+        "isAvailable": true,
+        "acsTokenLink": "http://books.google.com.au/books/download/Meghan_and_Harry-sample-epub.acsm?id=Hoz-EAAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+      },
+      "pdf": {
+        "isAvailable": false
+      },
+      "webReaderLink": "http://play.google.com/books/reader?id=Hoz-EAAAQBAJ&hl=&source=gbs_api",
+      "accessViewStatus": "SAMPLE",
+      "quoteSharingAllowed": false
+    },
+    "searchInfo": {
+      "textSnippet": "A Wall Street Journal bestseller Meghan and Harry: The Real Story: Persecutors or Victims presents the reader with a strikingly forthright analysis of what happens when a vulnerable male, raised in the traditions of the Old World and ..."
+    }
+  },
+  {
+    "kind": "books#volume",
+    "id": "VD80DwAAQBAJ",
+    "etag": "TInZ+zXkrqs",
+    "selfLink": "https://www.googleapis.com/books/v1/volumes/VD80DwAAQBAJ",
+    "volumeInfo": {
+      "title": "Harry",
+      "subtitle": "Life, Loss, and Love",
+      "authors": ["Katie Nicholl"],
+      "publisher": "Hachette UK",
+      "publishedDate": "2018-03-20",
+      "description": "The most intimate and informative portrait yet of Prince Harry, from royal expert Katie Nicholl, author of the bestselling William and Harry and Kate. From his earliest public appearances as a mischievous redheaded toddler, Prince Harry has captured the hearts of royal enthusiasts around the world. In Harry, Britain's leading expert on the young royals offers an in-depth look at the wayward prince turned national treasure. Nicholl sheds new light on growing up royal, Harry's relationship with his mother, his troubled youth and early adulthood, and how his military service in Afghanistan inspired him to create his legacy, the Invictus Games. Harry: Life, Loss, and Love features interviews with friends, those who have worked with the prince, and former Palace aides. Nicholl explores Harry's relationship with his family, in particular, the Queen, his father, stepmother, and brother, and reveals his secret \"second family\" in Botswana. She uncovers new information about his former girlfriends and chronicles his romance and engagement to American actress Meghan Markle. Harry is a compelling portrait of one of the most popular members of the royal family, and reveals the inside story of the most intriguing royal romance in a decade.",
+      "industryIdentifiers": [
+        {
+          "type": "ISBN_13",
+          "identifier": "9781602865273"
+        },
+        {
+          "type": "ISBN_10",
+          "identifier": "1602865272"
+        }
+      ],
+      "readingModes": {
+        "text": true,
+        "image": false
+      },
+      "pageCount": 272,
+      "printType": "BOOK",
+      "categories": ["Biography & Autobiography"],
+      "maturityRating": "NOT_MATURE",
+      "allowAnonLogging": true,
+      "contentVersion": "1.12.12.0.preview.2",
+      "panelizationSummary": {
+        "containsEpubBubbles": false,
+        "containsImageBubbles": false
+      },
+      "imageLinks": {
+        "smallThumbnail": "http://books.google.com/books/content?id=VD80DwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+        "thumbnail": "http://books.google.com/books/content?id=VD80DwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+      },
+      "language": "en",
+      "previewLink": "http://books.google.com.au/books?id=VD80DwAAQBAJ&printsec=frontcover&dq=harry&hl=&cd=2&source=gbs_api",
+      "infoLink": "https://play.google.com/store/books/details?id=VD80DwAAQBAJ&source=gbs_api",
+      "canonicalVolumeLink": "https://play.google.com/store/books/details?id=VD80DwAAQBAJ"
+    },
+    "saleInfo": {
+      "country": "AU",
+      "saleability": "FOR_SALE",
+      "isEbook": true,
+      "listPrice": {
+        "amount": 24.99,
+        "currencyCode": "AUD"
+      },
+      "retailPrice": {
+        "amount": 24.99,
+        "currencyCode": "AUD"
+      },
+      "buyLink": "https://play.google.com/store/books/details?id=VD80DwAAQBAJ&rdid=book-VD80DwAAQBAJ&rdot=1&source=gbs_api",
+      "offers": [
+        {
+          "finskyOfferType": 1,
+          "listPrice": {
+            "amountInMicros": 24990000,
+            "currencyCode": "AUD"
+          },
+          "retailPrice": {
+            "amountInMicros": 24990000,
+            "currencyCode": "AUD"
+          },
+          "giftable": true
+        }
+      ]
+    },
+    "accessInfo": {
+      "country": "AU",
+      "viewability": "PARTIAL",
+      "embeddable": true,
+      "publicDomain": false,
+      "textToSpeechPermission": "ALLOWED",
+      "epub": {
+        "isAvailable": true,
+        "acsTokenLink": "http://books.google.com.au/books/download/Harry-sample-epub.acsm?id=VD80DwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+      },
+      "pdf": {
+        "isAvailable": false
+      },
+      "webReaderLink": "http://play.google.com/books/reader?id=VD80DwAAQBAJ&hl=&source=gbs_api",
+      "accessViewStatus": "SAMPLE",
+      "quoteSharingAllowed": false
+    },
+    "searchInfo": {
+      "textSnippet": "Harry is a compelling portrait of one of the most popular members of the royal family, and reveals the inside story of the most intriguing royal romance in a decade."
+    }
+  },
+  {
+    "kind": "books#volume",
+    "id": "UdlSzQEACAAJ",
+    "etag": "dxlomFxYGZI",
+    "selfLink": "https://www.googleapis.com/books/v1/volumes/UdlSzQEACAAJ",
+    "volumeInfo": {
+      "title": "Home by Natural Harry",
+      "subtitle": "DIY Recipes for a Tox-Free, Zero-waste Life",
+      "authors": ["Harriet Birrell"],
+      "publishedDate": "2020-11-05",
+      "description": "Down-to-earth recipes for a resourceful, tox-free, and waste-free home life. Home by Natural Harry is a compendium of DIY recipes, tips, tricks, and hacks for a calm, resourceful, and tox-free existence. It is a modern reference for anyone who wants to ditch their joyless supermarket habit, reduce plastic waste, and save money and the world. Home by Natural Harry considers every room of the house (stain remover for the laundry, shower cleaner in the bathroom, dish liquid in the kitchen) and presents alternatives to shop-bought cleaning products, as well as a comprehensive chapter on body care (from toothpaste to shampoo to foaming hand wash). Readers will also be treated to a handful of recipes for Harriet's favorite money-saving kitchen staples including oaty seed loaf, coconut yoghurt, and pickled veg. Home by Natural Harry celebrates a slower, more frugal and thoughtful life--the joys of which people the world over are learning to respect and embrace.",
+      "industryIdentifiers": [
+        {
+          "type": "ISBN_10",
+          "identifier": "174379620X"
+        },
+        {
+          "type": "ISBN_13",
+          "identifier": "9781743796207"
+        }
+      ],
+      "readingModes": {
+        "text": false,
+        "image": false
+      },
+      "pageCount": 208,
+      "printType": "BOOK",
+      "categories": ["House & Home"],
+      "maturityRating": "NOT_MATURE",
+      "allowAnonLogging": false,
+      "contentVersion": "preview-1.0.0",
+      "panelizationSummary": {
+        "containsEpubBubbles": false,
+        "containsImageBubbles": false
+      },
+      "imageLinks": {
+        "smallThumbnail": "http://books.google.com/books/content?id=UdlSzQEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+        "thumbnail": "http://books.google.com/books/content?id=UdlSzQEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+      },
+      "language": "en",
+      "previewLink": "http://books.google.com.au/books?id=UdlSzQEACAAJ&dq=harry&hl=&cd=3&source=gbs_api",
+      "infoLink": "http://books.google.com.au/books?id=UdlSzQEACAAJ&dq=harry&hl=&source=gbs_api",
+      "canonicalVolumeLink": "https://books.google.com/books/about/Home_by_Natural_Harry.html?hl=&id=UdlSzQEACAAJ"
+    },
+    "saleInfo": {
+      "country": "AU",
+      "saleability": "NOT_FOR_SALE",
+      "isEbook": false
+    },
+    "accessInfo": {
+      "country": "AU",
+      "viewability": "NO_PAGES",
+      "embeddable": false,
+      "publicDomain": false,
+      "textToSpeechPermission": "ALLOWED",
+      "epub": {
+        "isAvailable": false
+      },
+      "pdf": {
+        "isAvailable": false
+      },
+      "webReaderLink": "http://play.google.com/books/reader?id=UdlSzQEACAAJ&hl=&source=gbs_api",
+      "accessViewStatus": "NONE",
+      "quoteSharingAllowed": false
+    },
+    "searchInfo": {
+      "textSnippet": "&quot;HOME BY NATURAL HARRY is your down-to-earth guide to a resourceful, tox-free and waste-free home life."
+    }
+  },
+  {
+    "kind": "books#volume",
+    "id": "yicDl0rgpNQC",
+    "etag": "/kAB48jbrkc",
+    "selfLink": "https://www.googleapis.com/books/v1/volumes/yicDl0rgpNQC",
+    "volumeInfo": {
+      "title": "The Cadet Life of Prince Harry",
+      "authors": ["Vasile Michael"],
+      "publisher": "AuthorHouse",
+      "publishedDate": "2008",
+      "description": "RMA Sandhurst is the place where you learn the fundamental meaning of military thinking and wisdom. Living and training in RMA Sandhurst means being born again, little by little. Here you blend your own being with the miracle of military education. It is a difficult road, with steep slopes, but extremely attractive for someone having such a voluntary character as Prince Harry. For him, to live the life of a cadet means to change gradually. To become a real man, ready to face life and the military career!",
+      "industryIdentifiers": [
+        {
+          "type": "ISBN_13",
+          "identifier": "9781434353924"
+        },
+        {
+          "type": "ISBN_10",
+          "identifier": "1434353923"
+        }
+      ],
+      "readingModes": {
+        "text": true,
+        "image": true
+      },
+      "pageCount": 221,
+      "printType": "BOOK",
+      "categories": ["Military cadets"],
+      "maturityRating": "NOT_MATURE",
+      "allowAnonLogging": false,
+      "contentVersion": "0.2.2.0.preview.3",
+      "panelizationSummary": {
+        "containsEpubBubbles": false,
+        "containsImageBubbles": false
+      },
+      "imageLinks": {
+        "smallThumbnail": "http://books.google.com/books/content?id=yicDl0rgpNQC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+        "thumbnail": "http://books.google.com/books/content?id=yicDl0rgpNQC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+      },
+      "language": "en",
+      "previewLink": "http://books.google.com.au/books?id=yicDl0rgpNQC&printsec=frontcover&dq=harry&hl=&cd=4&source=gbs_api",
+      "infoLink": "http://books.google.com.au/books?id=yicDl0rgpNQC&dq=harry&hl=&source=gbs_api",
+      "canonicalVolumeLink": "https://books.google.com/books/about/The_Cadet_Life_of_Prince_Harry.html?hl=&id=yicDl0rgpNQC"
+    },
+    "saleInfo": {
+      "country": "AU",
+      "saleability": "NOT_FOR_SALE",
+      "isEbook": false
+    },
+    "accessInfo": {
+      "country": "AU",
+      "viewability": "PARTIAL",
+      "embeddable": true,
+      "publicDomain": false,
+      "textToSpeechPermission": "ALLOWED",
+      "epub": {
+        "isAvailable": true,
+        "acsTokenLink": "http://books.google.com.au/books/download/The_Cadet_Life_of_Prince_Harry-sample-epub.acsm?id=yicDl0rgpNQC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+      },
+      "pdf": {
+        "isAvailable": true,
+        "acsTokenLink": "http://books.google.com.au/books/download/The_Cadet_Life_of_Prince_Harry-sample-pdf.acsm?id=yicDl0rgpNQC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+      },
+      "webReaderLink": "http://play.google.com/books/reader?id=yicDl0rgpNQC&hl=&source=gbs_api",
+      "accessViewStatus": "SAMPLE",
+      "quoteSharingAllowed": false
+    },
+    "searchInfo": {
+      "textSnippet": "RMA Sandhurst is the place where you learn the fundamental meaning of military thinking and wisdom."
+    }
+  },
+  {
+    "kind": "books#volume",
+    "id": "jlFqPwAACAAJ",
+    "etag": "45xVamwySxU",
+    "selfLink": "https://www.googleapis.com/books/v1/volumes/jlFqPwAACAAJ",
+    "volumeInfo": {
+      "title": "Harry and Hopper",
+      "authors": ["Margaret Wild", "Freya Blackwood"],
+      "publisher": "Omnibus Books",
+      "publishedDate": "2009",
+      "description": "Harry and his dog Hopper have done everything together, ever since Hopper was a jumpy little puppy. But one day the unthinkable happens. When Harry comes home from school, Hopper isn't there to greet him. Hopper will never be there again, but Harry is not ready to let him go. A story that tenderly demonstrates the shock of grief and the sustaining power of love.",
+      "industryIdentifiers": [
+        {
+          "type": "ISBN_10",
+          "identifier": "1862917418"
+        },
+        {
+          "type": "ISBN_13",
+          "identifier": "9781862917415"
+        }
+      ],
+      "readingModes": {
+        "text": false,
+        "image": false
+      },
+      "pageCount": 32,
+      "printType": "BOOK",
+      "categories": ["Dogs"],
+      "maturityRating": "NOT_MATURE",
+      "allowAnonLogging": false,
+      "contentVersion": "preview-1.0.0",
+      "imageLinks": {
+        "smallThumbnail": "http://books.google.com/books/content?id=jlFqPwAACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+        "thumbnail": "http://books.google.com/books/content?id=jlFqPwAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+      },
+      "language": "en",
+      "previewLink": "http://books.google.com.au/books?id=jlFqPwAACAAJ&dq=harry&hl=&cd=5&source=gbs_api",
+      "infoLink": "http://books.google.com.au/books?id=jlFqPwAACAAJ&dq=harry&hl=&source=gbs_api",
+      "canonicalVolumeLink": "https://books.google.com/books/about/Harry_and_Hopper.html?hl=&id=jlFqPwAACAAJ"
+    },
+    "saleInfo": {
+      "country": "AU",
+      "saleability": "NOT_FOR_SALE",
+      "isEbook": false
+    },
+    "accessInfo": {
+      "country": "AU",
+      "viewability": "NO_PAGES",
+      "embeddable": false,
+      "publicDomain": false,
+      "textToSpeechPermission": "ALLOWED",
+      "epub": {
+        "isAvailable": false
+      },
+      "pdf": {
+        "isAvailable": false
+      },
+      "webReaderLink": "http://play.google.com/books/reader?id=jlFqPwAACAAJ&hl=&source=gbs_api",
+      "accessViewStatus": "NONE",
+      "quoteSharingAllowed": false
+    },
+    "searchInfo": {
+      "textSnippet": "Harry and his dog Hopper have done everything together, ever since Hopper was a jumpy little puppy."
+    }
+  },
+  {
+    "kind": "books#volume",
+    "id": "Z8maguf4d9sC",
+    "etag": "bhtlxROfgMU",
+    "selfLink": "https://www.googleapis.com/books/v1/volumes/Z8maguf4d9sC",
+    "volumeInfo": {
+      "title": "Harry Seidler",
+      "subtitle": "Selected and Current Works",
+      "authors": ["Harry Seidler", "Stephen Dobney"],
+      "publisher": "Images Publishing",
+      "publishedDate": "1997",
+      "description": "\"This volume records Harry Seidler's unique vital contribution to 20th century architecture, art and design.\"--BOOK JACKET.",
+      "industryIdentifiers": [
+        {
+          "type": "ISBN_10",
+          "identifier": "1875498753"
+        },
+        {
+          "type": "ISBN_13",
+          "identifier": "9781875498758"
+        }
+      ],
+      "readingModes": {
+        "text": false,
+        "image": true
+      },
+      "pageCount": 264,
+      "printType": "BOOK",
+      "categories": ["Architecture"],
+      "maturityRating": "NOT_MATURE",
+      "allowAnonLogging": false,
+      "contentVersion": "0.8.7.0.preview.1",
+      "panelizationSummary": {
+        "containsEpubBubbles": false,
+        "containsImageBubbles": false
+      },
+      "imageLinks": {
+        "smallThumbnail": "http://books.google.com/books/content?id=Z8maguf4d9sC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+        "thumbnail": "http://books.google.com/books/content?id=Z8maguf4d9sC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+      },
+      "language": "en",
+      "previewLink": "http://books.google.com.au/books?id=Z8maguf4d9sC&printsec=frontcover&dq=harry&hl=&cd=6&source=gbs_api",
+      "infoLink": "http://books.google.com.au/books?id=Z8maguf4d9sC&dq=harry&hl=&source=gbs_api",
+      "canonicalVolumeLink": "https://books.google.com/books/about/Harry_Seidler.html?hl=&id=Z8maguf4d9sC"
+    },
+    "saleInfo": {
+      "country": "AU",
+      "saleability": "NOT_FOR_SALE",
+      "isEbook": false
+    },
+    "accessInfo": {
+      "country": "AU",
+      "viewability": "PARTIAL",
+      "embeddable": true,
+      "publicDomain": false,
+      "textToSpeechPermission": "ALLOWED",
+      "epub": {
+        "isAvailable": false
+      },
+      "pdf": {
+        "isAvailable": true,
+        "acsTokenLink": "http://books.google.com.au/books/download/Harry_Seidler-sample-pdf.acsm?id=Z8maguf4d9sC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+      },
+      "webReaderLink": "http://play.google.com/books/reader?id=Z8maguf4d9sC&hl=&source=gbs_api",
+      "accessViewStatus": "SAMPLE",
+      "quoteSharingAllowed": false
+    },
+    "searchInfo": {
+      "textSnippet": "&quot;This volume records Harry Seidler&#39;s unique vital contribution to 20th century architecture, art and design.&quot;--BOOK JACKET."
+    }
+  },
+  {
+    "kind": "books#volume",
+    "id": "Ed4sEAAAQBAJ",
+    "etag": "9X6uyS+03oY",
+    "selfLink": "https://www.googleapis.com/books/v1/volumes/Ed4sEAAAQBAJ",
+    "volumeInfo": {
+      "title": "The Book of Harry: A Celebration of Harry Styles",
+      "authors": ["Charlotte McLaren"],
+      "publisher": "HarperCollins",
+      "publishedDate": "2021-08-19",
+      "description": "A celebration of Harry Styles – we Adore You!",
+      "industryIdentifiers": [
+        {
+          "type": "ISBN_13",
+          "identifier": "9780008487027"
+        },
+        {
+          "type": "ISBN_10",
+          "identifier": "0008487022"
+        }
+      ],
+      "readingModes": {
+        "text": true,
+        "image": false
+      },
+      "pageCount": 132,
+      "printType": "BOOK",
+      "categories": ["Biography & Autobiography"],
+      "maturityRating": "NOT_MATURE",
+      "allowAnonLogging": true,
+      "contentVersion": "1.1.1.0.preview.2",
+      "panelizationSummary": {
+        "containsEpubBubbles": false,
+        "containsImageBubbles": false
+      },
+      "imageLinks": {
+        "smallThumbnail": "http://books.google.com/books/content?id=Ed4sEAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+        "thumbnail": "http://books.google.com/books/content?id=Ed4sEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+      },
+      "language": "en",
+      "previewLink": "http://books.google.com.au/books?id=Ed4sEAAAQBAJ&printsec=frontcover&dq=harry&hl=&cd=7&source=gbs_api",
+      "infoLink": "https://play.google.com/store/books/details?id=Ed4sEAAAQBAJ&source=gbs_api",
+      "canonicalVolumeLink": "https://play.google.com/store/books/details?id=Ed4sEAAAQBAJ"
+    },
+    "saleInfo": {
+      "country": "AU",
+      "saleability": "FOR_SALE",
+      "isEbook": true,
+      "listPrice": {
+        "amount": 11.99,
+        "currencyCode": "AUD"
+      },
+      "retailPrice": {
+        "amount": 11.99,
+        "currencyCode": "AUD"
+      },
+      "buyLink": "https://play.google.com/store/books/details?id=Ed4sEAAAQBAJ&rdid=book-Ed4sEAAAQBAJ&rdot=1&source=gbs_api",
+      "offers": [
+        {
+          "finskyOfferType": 1,
+          "listPrice": {
+            "amountInMicros": 11990000,
+            "currencyCode": "AUD"
+          },
+          "retailPrice": {
+            "amountInMicros": 11990000,
+            "currencyCode": "AUD"
+          },
+          "giftable": true
+        }
+      ]
+    },
+    "accessInfo": {
+      "country": "AU",
+      "viewability": "PARTIAL",
+      "embeddable": true,
+      "publicDomain": false,
+      "textToSpeechPermission": "ALLOWED",
+      "epub": {
+        "isAvailable": true,
+        "acsTokenLink": "http://books.google.com.au/books/download/The_Book_of_Harry_A_Celebration_of_Harry-sample-epub.acsm?id=Ed4sEAAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+      },
+      "pdf": {
+        "isAvailable": false
+      },
+      "webReaderLink": "http://play.google.com/books/reader?id=Ed4sEAAAQBAJ&hl=&source=gbs_api",
+      "accessViewStatus": "SAMPLE",
+      "quoteSharingAllowed": false
+    },
+    "searchInfo": {
+      "textSnippet": "A celebration of Harry Styles – we Adore You!"
+    }
+  },
+  {
+    "kind": "books#volume",
+    "id": "Aaug_RnI-xQC",
+    "etag": "6/p+WV6cdKs",
+    "selfLink": "https://www.googleapis.com/books/v1/volumes/Aaug_RnI-xQC",
+    "volumeInfo": {
+      "title": "The Irresistible Rise of Harry Potter",
+      "authors": ["Andrew Blake"],
+      "publisher": "Verso",
+      "publishedDate": "2002-12-17",
+      "description": "Blake's examination of the Potter phenomenon raises serious questions about the condition of the publishing industry, filmmaking, and the ways in which the Potter consumer campaign has changed ideas about literature and reading.",
+      "industryIdentifiers": [
+        {
+          "type": "ISBN_10",
+          "identifier": "1859846661"
+        },
+        {
+          "type": "ISBN_13",
+          "identifier": "9781859846667"
+        }
+      ],
+      "readingModes": {
+        "text": false,
+        "image": true
+      },
+      "pageCount": 140,
+      "printType": "BOOK",
+      "categories": ["Language Arts & Disciplines"],
+      "averageRating": 5,
+      "ratingsCount": 3,
+      "maturityRating": "NOT_MATURE",
+      "allowAnonLogging": false,
+      "contentVersion": "1.4.4.0.preview.1",
+      "panelizationSummary": {
+        "containsEpubBubbles": false,
+        "containsImageBubbles": false
+      },
+      "imageLinks": {
+        "smallThumbnail": "http://books.google.com/books/content?id=Aaug_RnI-xQC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+        "thumbnail": "http://books.google.com/books/content?id=Aaug_RnI-xQC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+      },
+      "language": "en",
+      "previewLink": "http://books.google.com.au/books?id=Aaug_RnI-xQC&printsec=frontcover&dq=harry&hl=&cd=8&source=gbs_api",
+      "infoLink": "http://books.google.com.au/books?id=Aaug_RnI-xQC&dq=harry&hl=&source=gbs_api",
+      "canonicalVolumeLink": "https://books.google.com/books/about/The_Irresistible_Rise_of_Harry_Potter.html?hl=&id=Aaug_RnI-xQC"
+    },
+    "saleInfo": {
+      "country": "AU",
+      "saleability": "NOT_FOR_SALE",
+      "isEbook": false
+    },
+    "accessInfo": {
+      "country": "AU",
+      "viewability": "PARTIAL",
+      "embeddable": true,
+      "publicDomain": false,
+      "textToSpeechPermission": "ALLOWED",
+      "epub": {
+        "isAvailable": false
+      },
+      "pdf": {
+        "isAvailable": true,
+        "acsTokenLink": "http://books.google.com.au/books/download/The_Irresistible_Rise_of_Harry_Potter-sample-pdf.acsm?id=Aaug_RnI-xQC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+      },
+      "webReaderLink": "http://play.google.com/books/reader?id=Aaug_RnI-xQC&hl=&source=gbs_api",
+      "accessViewStatus": "SAMPLE",
+      "quoteSharingAllowed": false
+    },
+    "searchInfo": {
+      "textSnippet": "Blake&#39;s examination of the Potter phenomenon raises serious questions about the condition of the publishing industry, filmmaking, and the ways in which the Potter consumer campaign has changed ideas about literature and reading."
+    }
+  },
+  {
+    "kind": "books#volume",
+    "id": "_eipGwAACAAJ",
+    "etag": "Ui0XnRhaK0Y",
+    "selfLink": "https://www.googleapis.com/books/v1/volumes/_eipGwAACAAJ",
+    "volumeInfo": {
+      "title": "Harry and Luke",
+      "authors": ["Glyn Parry"],
+      "publisher": "Hachette Children's Books Australia",
+      "publishedDate": "2002",
+      "description": "Illustrated novel for children telling the story of Harry, whose bed grows feet and takes him on amazing adventures. Author has previously written 'Sad Boys' and 'Mosh'.",
+      "industryIdentifiers": [
+        {
+          "type": "ISBN_10",
+          "identifier": "0733614841"
+        },
+        {
+          "type": "ISBN_13",
+          "identifier": "9780733614842"
+        }
+      ],
+      "readingModes": {
+        "text": false,
+        "image": false
+      },
+      "pageCount": 95,
+      "printType": "BOOK",
+      "categories": ["Boys"],
+      "maturityRating": "NOT_MATURE",
+      "allowAnonLogging": false,
+      "contentVersion": "preview-1.0.0",
+      "language": "en",
+      "previewLink": "http://books.google.com.au/books?id=_eipGwAACAAJ&dq=harry&hl=&cd=9&source=gbs_api",
+      "infoLink": "http://books.google.com.au/books?id=_eipGwAACAAJ&dq=harry&hl=&source=gbs_api",
+      "canonicalVolumeLink": "https://books.google.com/books/about/Harry_and_Luke.html?hl=&id=_eipGwAACAAJ"
+    },
+    "saleInfo": {
+      "country": "AU",
+      "saleability": "NOT_FOR_SALE",
+      "isEbook": false
+    },
+    "accessInfo": {
+      "country": "AU",
+      "viewability": "NO_PAGES",
+      "embeddable": false,
+      "publicDomain": false,
+      "textToSpeechPermission": "ALLOWED",
+      "epub": {
+        "isAvailable": false
+      },
+      "pdf": {
+        "isAvailable": false
+      },
+      "webReaderLink": "http://play.google.com/books/reader?id=_eipGwAACAAJ&hl=&source=gbs_api",
+      "accessViewStatus": "NONE",
+      "quoteSharingAllowed": false
+    },
+    "searchInfo": {
+      "textSnippet": "Illustrated novel for children telling the story of Harry, whose bed grows feet and takes him on amazing adventures. Author has previously written &#39;Sad Boys&#39; and &#39;Mosh&#39;."
+    }
+  },
+  {
+    "kind": "books#volume",
+    "id": "ojZ0AwAAQBAJ",
+    "etag": "1MZI+dUU7pA",
+    "selfLink": "https://www.googleapis.com/books/v1/volumes/ojZ0AwAAQBAJ",
+    "volumeInfo": {
+      "title": "Prince Harry",
+      "subtitle": "Brother, Soldier, Son",
+      "authors": ["Penny Junor"],
+      "publisher": "Hodder & Stoughton",
+      "publishedDate": "2014-09-11",
+      "description": "This is the Prince Harry you've never read about before. Published in celebration of his thirtieth birthday, this is the story behind the tabloid stories. The Prince who has the power to make or break. The maverick Prince, who is brilliant, impetuous and unpredictable. The Prince who with his unique talents, charm and bloody-minded determination is changing lives across the world. But the Prince who could, in a moment of madness, bring it all crashing down. He is the redhead that Diana called 'the spare', whose childhood was one of chaos and loss; the little boy walking behind his mother's cortege who broke our hearts. This is the story of how he survived the loss and chaos; how he lived in the shadow of his older, cleverer, more important brother - until suddenly he discovered there was something he could do better than almost anyone. This is the story of how the troubled teenager grew into a leader of men, a soldier, a pilot, an adventurer and a passionate champion of those who are in danger of being destroyed or forgotten. Written with the help of many of the most important people in his life, this is the first authoritative biography of this most delightful, charismatic and dangerous of the Queen's grandsons.",
+      "industryIdentifiers": [
+        {
+          "type": "ISBN_13",
+          "identifier": "9781444777949"
+        },
+        {
+          "type": "ISBN_10",
+          "identifier": "1444777947"
+        }
+      ],
+      "readingModes": {
+        "text": true,
+        "image": false
+      },
+      "pageCount": 421,
+      "printType": "BOOK",
+      "categories": ["Biography & Autobiography"],
+      "maturityRating": "NOT_MATURE",
+      "allowAnonLogging": false,
+      "contentVersion": "1.3.4.0.preview.2",
+      "panelizationSummary": {
+        "containsEpubBubbles": false,
+        "containsImageBubbles": false
+      },
+      "imageLinks": {
+        "smallThumbnail": "http://books.google.com/books/content?id=ojZ0AwAAQBAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+        "thumbnail": "http://books.google.com/books/content?id=ojZ0AwAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+      },
+      "language": "en",
+      "previewLink": "http://books.google.com.au/books?id=ojZ0AwAAQBAJ&dq=harry&hl=&cd=10&source=gbs_api",
+      "infoLink": "http://books.google.com.au/books?id=ojZ0AwAAQBAJ&dq=harry&hl=&source=gbs_api",
+      "canonicalVolumeLink": "https://books.google.com/books/about/Prince_Harry.html?hl=&id=ojZ0AwAAQBAJ"
+    },
+    "saleInfo": {
+      "country": "AU",
+      "saleability": "NOT_FOR_SALE",
+      "isEbook": false
+    },
+    "accessInfo": {
+      "country": "AU",
+      "viewability": "NO_PAGES",
+      "embeddable": false,
+      "publicDomain": false,
+      "textToSpeechPermission": "ALLOWED",
+      "epub": {
+        "isAvailable": true
+      },
+      "pdf": {
+        "isAvailable": true
+      },
+      "webReaderLink": "http://play.google.com/books/reader?id=ojZ0AwAAQBAJ&hl=&source=gbs_api",
+      "accessViewStatus": "NONE",
+      "quoteSharingAllowed": false
+    },
+    "searchInfo": {
+      "textSnippet": "This is the Prince Harry you&#39;ve never read about before. Published in celebration of his thirtieth birthday, this is the story behind the tabloid stories. The Prince who has the power to make or break."
+    }
+  }
+]
