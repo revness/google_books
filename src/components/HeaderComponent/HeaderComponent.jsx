@@ -12,7 +12,7 @@ const HeaderComponent = () => {
   return (
     <div className={styles.HeaderComponent}>
       <div className={styles.HeaderComponent__title}>
-        <h1>Discover Books with Google Books API</h1>
+        <h1 className={styles.mark}>Discover Books with Google Books API</h1>
         <p>Explore a vast collection of books with our powerful search tool.</p>
         <p>Enter a title, author, or keyword and start your journey!</p>
       </div>
