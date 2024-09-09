@@ -1,5 +1,6 @@
 {
   "name": "google_books",
+  "homepage": "https://revness.github.io/google_books/",
   "private": true,
   "version": "0.0.0",
   "type": "module",
