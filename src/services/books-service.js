@@ -11,9 +11,11 @@ export const getBooks = async (query) => {
     }
     const data = await response.json()
     //check this works
-    if (data.items === 0) {
+    if (data.totalItems === 0) {
         throw new Error('no Books found for ' + query)
     }
     console.log(data)
     return data
 }
+
+//check total items
